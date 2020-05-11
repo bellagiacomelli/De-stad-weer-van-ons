@@ -56,8 +56,8 @@ Amsterdam is an uplifting city with a good economy partly based on tourism incom
 
 <p float="left">
 <img src="Documentation/img/kaart-prijzen.jpg" width="40%">
-<img src="Documentation/img/koopwoningen.gif" width="40%">
 <img src="Documentation/img/yuppen.gif" width="40%">
+<img src="Documentation/img/koopwoningen.gif" width="40%">
 <img src="Documentation/img/wijktypen.gif" width="40%">
 </p>
 
@@ -143,10 +143,10 @@ Getting the exact location fromt the audio files and then using google maps to l
 ### Results
 <img src="Documentation/img/Krakerspanden-kaart.jpg" width="70%">
 <p float="left">
-<img src="Documentation/img/house1.gif" width="30%">
-<img src="Documentation/img/house2.gif" width="30%">
-<img src="Documentation/img/house3.gif" width="30%">
-<img src="Documentation/img/house4.gif" width="30%">
+<img src="Documentation/img/house1.gif" width="50%">
+<img src="Documentation/img/house2.gif" width="50%">
+<img src="Documentation/img/house3.gif" width="50%">
+<img src="Documentation/img/house4.gif" width="50%">
 !!google streetview walk!!
 
 
@@ -168,8 +168,8 @@ By searching on blogs and biking through Amsterdam I made a collection of trendy
 
 ### Results
 <img src="Documentation/img/coffeebars.png" width="70%">
-<img src="Documentation/img/coffeebars.gif" width="50%">
-<img src="Documentation/img/yuppen-tripadvisor.gif" width="50%">
+<img src="Documentation/img/coffeebars.gif" width="70%">
+<img src="Documentation/img/yuppen-tripadvisor.gif" width="70%">
 
 
 
