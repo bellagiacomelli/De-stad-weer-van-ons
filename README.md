@@ -178,7 +178,7 @@ By searching on blogs and biking through Amsterdam I made a collection of trendy
 While listening to the interviews I feel a lot of emotion, about the whole proces of the sqautters and what they have been through. A strong feeling of power and wanting things to change.  Discribed in words nearly becomes poetry.
 
 ### Aims
-Walking on the streets, listening to poetry, can make you transport to another time inside the emotion of a different situation. I want to create this to combine the emotion/situation of the ex-squatters with the current one in Amsterdam. <sup>[[1]](#footnote-5)</sup>
+Walking on the streets, listening to poetry, can make you transport to another time inside the emotion of a different situation. I want to create this to combine the emotion/situation of the ex-squatters with the current one in Amsterdam. <sup>[[5]](#footnote-5)</sup>
 
 ### Methods
 Together with my current view on the housing situation in Amsterdam, the things being said in the interviews and the view on the future I would write small poems about the situation. By collecting different bits and pieces and complement them.
@@ -235,16 +235,10 @@ Links outcome
 
 <a name="footnote-2">**[2]**</a>: http://www.iisg.nl/staatsarchief/publicaties/voettussendedeur/hoofdstuk03.php
 
-<a name="footnote-2">**[3]**</a>: https://www.parool.nl/columns-opinie/de-yup-neemt-amsterdam-over~bf45797d/
+<a name="footnote-3">**[3]**</a>: https://www.parool.nl/columns-opinie/de-yup-neemt-amsterdam-over~bf45797d/
 
-<a name="footnote-2">**[4]**</a>: https://www.at5.nl/artikelen/172800/amsterdam-weer-van-ons-kinkerbuurt-voert-actie
+<a name="footnote-4">**[4]**</a>: https://www.at5.nl/artikelen/172800/amsterdam-weer-van-ons-kinkerbuurt-voert-actie
 
-<a name="footnote-2">**[5]**</a>: 
-
-<a name="footnote-2">**[6]**</a>: 
-
-<a name="footnote-2">**[7]**</a>: 
-
-<a name="footnote-5">**[1]**</a>: https://www.groene.nl/artikel/amsterdam-noord
+<a name="footnote-5">**[5]**</a>: https://www.groene.nl/artikel/amsterdam-noord
 
 
