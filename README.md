@@ -40,23 +40,16 @@ Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1
 
 # Research
 ## Amsterdam back then
-Squatting in Amsterdam refers to the occupation of unused or derelict buildings or land without the permission of the owner. The modern squatters movement (Dutch: kraakbeweging) began in the 1960s in the Netherlands and became a powerful housing movement in the 1980s. At its height the squatters movement regularly came into conflict with the state, particularly in Amsterdam.
-
-[Rellen en opstanden in Amsterdam](https://nl.wikipedia.org/wiki/Rellen_en_opstanden_in_Amsterdam#Krakersrellen)
-
-[Een voet tussen de deur, hoofdstuk 3](http://www.iisg.nl/staatsarchief/publicaties/voettussendedeur/hoofdstuk03.php)
+Squatting in Amsterdam refers to the occupation of unused or derelict buildings or land without the permission of the owner. The modern squatters movement (Dutch: kraakbeweging) began in the 1960s in the Netherlands and became a powerful housing movement in the 1980s.<sup>[[1]](#footnote-1)</sup> At its height the squatters movement regularly came into conflict with the state, particularly in Amsterdam.<sup>[[2]](#footnote-2)</sup>
 
 Renewal comes from fringes, the squatters movement gave a lot to Amsterdam as a city. The cultural freedom gave space for creative interpretation that created multiple chances for the city.
 
 ## Amsterdam today
-Amsterdam is an uplifting city with a good economy partly based on tourism income. After de economy crisis and then buildup, it's stable and uprising. Houses are hardly affordable right now and the structure of the city is changed. 
-['De yup neemt Amsterdam over'](https://www.parool.nl/columns-opinie/de-yup-neemt-amsterdam-over~bf45797d/)
-['Amsterdam weer van ons': Kinkerbuurt voert actie](https://www.at5.nl/artikelen/172800/amsterdam-weer-van-ons-kinkerbuurt-voert-actie)
-
+Amsterdam is an uplifting city with a good economy partly based on tourism income. After de economy crisis and then buildup, it's stable and uprising.<sup>[[3]](#footnote-3)</sup> Houses are hardly affordable right now and the structure of the city is changed.<sup>[[4]](#footnote-4)</sup>
 
 <p float="left">
-<img src="Documentation/img/kaart-prijzen.jpg" width="40%">
 <img src="Documentation/img/yuppen.gif" width="40%">
+<img src="Documentation/img/kaart-prijzen.jpg" width="40%">
 <img src="Documentation/img/koopwoningen.gif" width="40%">
 <img src="Documentation/img/wijktypen.gif" width="40%">
 </p>
@@ -130,7 +123,6 @@ audiofiles
 [Tate - Audio Arts](https://www.tate.org.uk/about-us/projects/audio-arts)
 
 
-
 ## 2. Mapping squatters buildings then vs now
 In the audio files of the cassettes the interviewee/ex-squatters talk about where the were living in Amsterdam when the entered the squatters movement. I collected the addresses of those squatters buildings and looked them up. Where are they now? are they still here?
 
@@ -143,10 +135,10 @@ Getting the exact location fromt the audio files and then using google maps to l
 ### Results
 <img src="Documentation/img/Krakerspanden-kaart.jpg" width="70%">
 <p float="left">
-<img src="Documentation/img/house1.gif" width="50%">
-<img src="Documentation/img/house2.gif" width="50%">
-<img src="Documentation/img/house3.gif" width="50%">
-<img src="Documentation/img/house4.gif" width="50%">
+<img src="Documentation/img/house1.gif" width="45%">
+<img src="Documentation/img/house2.gif" width="45%">
+<img src="Documentation/img/house3.gif" width="45%">
+<img src="Documentation/img/house4.gif" width="45%">
 </p>
 
 
@@ -186,7 +178,7 @@ By searching on blogs and biking through Amsterdam I made a collection of trendy
 While listening to the interviews I feel a lot of emotion, about the whole proces of the sqautters and what they have been through. A strong feeling of power and wanting things to change.  Discribed in words nearly becomes poetry.
 
 ### Aims
-Walking on the streets, listening to poetry, can make you transport to another time inside the emotion of a different situation. I want to create this to combine the emotion/situation of the ex-squatters with the current one in Amsterdam. <sup>[[1]](#footnote-1)</sup>
+Walking on the streets, listening to poetry, can make you transport to another time inside the emotion of a different situation. I want to create this to combine the emotion/situation of the ex-squatters with the current one in Amsterdam. <sup>[[1]](#footnote-5)</sup>
 
 ### Methods
 Together with my current view on the housing situation in Amsterdam, the things being said in the interviews and the view on the future I would write small poems about the situation. By collecting different bits and pieces and complement them.
@@ -224,26 +216,12 @@ Using different types of mapping together in 1 system, to combine the experience
 
 [API's voor geolocatie | Google Maps Platform | Google Cloud](https://cloud.google.com/maps-platform/?hl=nl&utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_417765871570-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C+Mapping+APIs-KWID_43700051585816041-kwd-412104684431-userloc_9063510&utm_term=KW_%2Bmap%20%2Bapis-ST_%2Bmap+%2Bapis&gclid=EAIaIQobChMI6pa9xYn36AIVj6Z3Ch30KwnQEAAYASAAEgL4evD_BwE)
 
+### References
 [Create your Mobile Audio Tour Guide App](https://www.actiondatasystems.com/)
 
 [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/)
 
 [Create Your Own Audio Tour " VoiceMap](https://voicemap.me/create-audio-tours)
-
-
-https://www.google.com/search?q=add+audio+to+google+maps&oq=add+audio+to+google+maps&aqs=chrome..69i57j33l3.7840j0j9&sourceid=chrome&ie=UTF-8#kpvalbx=_ygiwXuiPCI71kwWB5L2IDw20
-
-https://www.dwrl.utexas.edu/2016/10/19/mapping-sound/
-
-https://www.youtube.com/watch?v=QlHNJWBr1BU
-
-https://lifehacker.com/how-to-create-or-experience-audio-in-augmented-realit-1828327906
-
-https://virtualrealitypop.com/the-killer-app-for-ar-hologram-tour-guides-dbf259f68e55
-
-https://www.digitaltrends.com/mobile/how-to-use-ar-mode-google-maps/
-
-https://code.tutsplus.com/tutorials/using-google-maps-new-features-for-flash--active-3127
 
 ### Outcome Links
 Links outcome
@@ -253,6 +231,20 @@ Links outcome
 
 
 ## Bibliography
+<a name="footnote-1">**[1]**</a>: https://nl.wikipedia.org/wiki/Rellen_en_opstanden_in_Amsterdam#Krakersrellen
 
-<a name="footnote-1">**[1]**</a>: https://www.groene.nl/artikel/amsterdam-noord
+<a name="footnote-2">**[2]**</a>: http://www.iisg.nl/staatsarchief/publicaties/voettussendedeur/hoofdstuk03.php
+
+<a name="footnote-2">**[3]**</a>: https://www.parool.nl/columns-opinie/de-yup-neemt-amsterdam-over~bf45797d/
+
+<a name="footnote-2">**[4]**</a>: https://www.at5.nl/artikelen/172800/amsterdam-weer-van-ons-kinkerbuurt-voert-actie
+
+<a name="footnote-2">**[5]**</a>: 
+
+<a name="footnote-2">**[6]**</a>: 
+
+<a name="footnote-2">**[7]**</a>: 
+
+<a name="footnote-5">**[1]**</a>: https://www.groene.nl/artikel/amsterdam-noord
+
 
