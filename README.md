@@ -147,7 +147,7 @@ Getting the exact location fromt the audio files and then using google maps to l
 <img src="Documentation/img/house2.gif" width="50%">
 <img src="Documentation/img/house3.gif" width="50%">
 <img src="Documentation/img/house4.gif" width="50%">
-!!google streetview walk!!
+</p>
 
 
 ### Source Links
