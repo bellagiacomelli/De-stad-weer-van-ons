@@ -117,7 +117,7 @@ All the audio of the cassettes is on [here]([http://www.iisg.nl/staatsarchief/au
 | Entrance squattersmovement | 1980
 | Where did you live? | Rivierenbuurt
 
-<br>
+
 [Audio files here](https://drive.google.com/open?id=1O-hXtsKNq11sgegbCLiFJO20x3eHsuFn)
 
 ### Source Links
