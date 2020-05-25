@@ -1,4 +1,4 @@
-[<img src="Documentation/img/cover_img.gif" width="100%">](#)
+[<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/cover_img.gif" width="100%">](#)
 # De stad was van ons
 
 ### Table of Contents
@@ -34,7 +34,7 @@ Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1
 | **Medium** | Audiotapes
 | **Materials** | Cassette
 | **Date** | 1996
-|<img src="Documentation/img/tapes.jpg" width="90%">| Paperbox with 31 cassette tapes, containing 28 intervieuws with ex-squatters (stored in the archive in this way). Every cassette is named (with the name of the concerned interviewee) and numbered. Some cassettes contain half of the interview, the remaining part is then on the following cassette. The covers of the cassettes don't contain an image. 
+|<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/tapes.jpg" width="90%">| Paperbox with 31 cassette tapes, containing 28 intervieuws with ex-squatters (stored in the archive in this way). Every cassette is named (with the name of the concerned interviewee) and numbered. Some cassettes contain half of the interview, the remaining part is then on the following cassette. The covers of the cassettes don't contain an image. 
 
 
 
@@ -48,10 +48,10 @@ Renewal comes from fringes, the squatters movement gave a lot to Amsterdam as a 
 Amsterdam is an uplifting city with a good economy partly based on tourism income. After de economy crisis and then buildup, it's stable and uprising.<sup>[[3]](#footnote-3)</sup> Houses are hardly affordable right now and the structure of the city is changed.<sup>[[4]](#footnote-4)</sup>
 
 <p float="left">
-<img src="Documentation/img/yuppen.gif" width="40%">
-<img src="Documentation/img/kaart-prijzen.jpg" width="40%">
-<img src="Documentation/img/koopwoningen.gif" width="40%">
-<img src="Documentation/img/wijktypen.gif" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/yuppen-tripadvisor.gif" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/kaart-prijzen.jpg" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/koopwoningen.gif" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/wijktypen.gif" width="40%">
 </p>
 
 
@@ -70,8 +70,8 @@ Tangible/interactive installation that conveys the feeling of the content of the
 Visualizing a map of the city with different elements transcoded from the 28 audio tapes.
 
 <p float="left">
-<img src="Documentation/img/diagram1.png" width="40%">
-<img src="Documentation/img/diagram2.png" width="40%"> 
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%"> 
 </p>
 
 *De stad is van ons<br>
@@ -88,8 +88,8 @@ What happend to Amsterdam in the time from the squatters movement around 1980 an
 With the total length of the cassettes there is a lot of material to transcode. I'll dive deeper into organizing the audio in smaller snippets that refer to different parts of the content of the cassettes. Next to that I mapped the content of the tapes and translated that into present sence, with details from back then collected from the tapes and translated into the Amsterdam as I know it today. 
 
 <p float="left">
-<img src="Documentation/img/tapes.gif" width="50%">
-<img src="Documentation/img/publicatie.gif" width="47%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/tapes.gif" width="50%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/publicatie.gif" width="47%">
 </p>
 
 
@@ -136,10 +136,10 @@ Getting the exact location fromt the audio files and then using google maps to l
 ### Results
 <img src="https://github.com/bellagiacomelli/De-stad-was-van-ons/blob/master/Documentation/img/Krakerspanden-kaart.jpg" width="70%">
 <p float="left">
-<img src="Documentation/img/house1.gif" width="45%">
-<img src="Documentation/img/house2.gif" width="45%">
-<img src="Documentation/img/house3.gif" width="45%">
-<img src="Documentation/img/house4.gif" width="45%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/house1.gif" width="45%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/house2.gif" width="45%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/house3.gif" width="45%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/house4.gif" width="45%">
 </p>
 
 
@@ -160,9 +160,9 @@ By mapping a typical example of gentrification in Amsterdam it will give a contr
 By searching on blogs and biking through Amsterdam I made a collection of trendy coffeebars that I pinned in google maps. On google streetview I made screenshots of the facades of the places and collected tripadvisor reviews about 'yuppen'.
 
 ### Results
-<img src="Documentation/img/coffeebars.png" width="70%">
-<img src="Documentation/img/coffeebars.gif" width="70%">
-<img src="Documentation/img/yuppen-tripadvisor.gif" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.gif" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/yuppen-tripadvisor.gif" width="70%">
 
 
 
@@ -186,7 +186,7 @@ Together with my current view on the housing situation in Amsterdam, the things 
 
 ### Results
 <p float="left">
-<img src="Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
 
 </p>
 
