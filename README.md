@@ -20,7 +20,7 @@
     + [Outcome Links](#outcome-links)
 - [Conclusion](#conclusion)
 
-# Artefact
+# 1. Artefact
 Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1996 with a total length of 19 hrs 31 min. The concerened interviews are about the experience of squatting spanned over several years.
 
 [Research](#Research-h1)
@@ -38,7 +38,7 @@ Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1
 
 
 
-# Research
+# 2. Research
 ## Amsterdam back then
 Squatting in Amsterdam refers to the occupation of unused or derelict buildings or land without the permission of the owner. The modern squatters movement (Dutch: kraakbeweging) began in the 1960s in the Netherlands and became a powerful housing movement in the 1980s.<sup>[[1]](#footnote-1)</sup> At its height the squatters movement regularly came into conflict with the state, particularly in Amsterdam.<sup>[[2]](#footnote-2)</sup>
 
@@ -84,7 +84,7 @@ What happend to Amsterdam in the time from the squatters movement around 1980 an
 
 
 
-# Transcoding
+# 3. Transcoding
 With the total length of the cassettes there is a lot of material to transcode. I'll dive deeper into organizing the audio in smaller snippets that refer to different parts of the content of the cassettes. Next to that I mapped the content of the tapes and translated that into present sence, with details from back then collected from the tapes and translated into the Amsterdam as I know it today. 
 
 <p float="left">
@@ -134,7 +134,7 @@ Amsterdam housing changed a lot over the years and nearly all the squatting plac
 Getting the exact location fromt the audio files and then using google maps to look it up. With streetview have a little round in the neighbourhoor and check what is happing there while screenrecording it. 
 
 ### Results
-<img src="Documentation/img/Krakerspanden-kaart.jpg" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-was-van-ons/blob/master/Documentation/img/Krakerspanden-kaart.jpg" width="70%">
 <p float="left">
 <img src="Documentation/img/house1.gif" width="45%">
 <img src="Documentation/img/house2.gif" width="45%">
@@ -200,10 +200,10 @@ Together with my current view on the housing situation in Amsterdam, the things 
 
 
  
-# Reflection
+# 4. Reflection
 
 
-# Outcomes
+# 5. Outcomes
 ### Possible outcomes
 Using different types of mapping together in 1 system, to combine the experience from the ex-squatters with the experience now. All of the transcodings can come together as an screen-based experience.
 - Mapping website
@@ -228,7 +228,7 @@ Using different types of mapping together in 1 system, to combine the experience
 Links outcome
 
 
-# Conclusion 
+# 6. Conclusion 
 
 
 ## Bibliography
