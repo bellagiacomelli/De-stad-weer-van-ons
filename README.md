@@ -2,14 +2,12 @@
 # De stad was van ons
 
 ### Table of Contents
-- [De stad was van ons](#de-stad-was-van-ons)
-    + [Table of Contents](#table-of-contents)
 - [1. Artefact](#1-artefact)
 - [2. Research](#2-research)
   * [1. Amsterdam back then](#1-amsterdam-back-then)
   * [2. Amsterdam today](#2-amsterdam-today)
   * [3. Content of cassettes](#3-content-of-cassettes)
-    + [4. Common questions asked during the interviews](#4-common-questions-asked-during-the-interviews)
+
   * [5. Concept](#5-concept)
   * [6. Research question](#6-research-question)
 - [3. Transcoding](#3-transcoding)
