@@ -2,30 +2,35 @@
 # De stad was van ons
 
 ### Table of Contents
-- [1. Artefact](#artefact)
-  * [1. Metadata](#metadata)
-- [2. Research](#research)
-  * [1. Brief history about the squatters movement in Amsterdam](#brief-history-about-the-squatters-movement-in-amsterdam)
-  * [2. Neigbourhoods in Amsterdam today](#neigbourhoods-in-amsterdam-today)
-  * [3. Content of cassettes](#content-of-cassettes)
-  * [4. Concept](#concept)
-  * [5. Research question](#research-question)
-- [2. Transcoding](#transcoding)
+- [De stad was van ons](#de-stad-was-van-ons)
+    + [Table of Contents](#table-of-contents)
+- [1. Artefact](#1-artefact)
+- [2. Research](#2-research)
+  * [1. Amsterdam back then](#1-amsterdam-back-then)
+  * [2. Amsterdam today](#2-amsterdam-today)
+  * [3. Content of cassettes](#3-content-of-cassettes)
+    + [4. Common questions asked during the interviews](#4-common-questions-asked-during-the-interviews)
+  * [5. Concept](#5-concept)
+  * [6. Research question](#6-research-question)
+- [3. Transcoding](#3-transcoding)
   * [1. Audio snippets from cassettes content](#1-audio-snippets-from-cassettes-content)
   * [2. Mapping squatters buildings then vs now](#2-mapping-squatters-buildings-then-vs-now)
   * [3. Mapping trendy new coffeeplaces](#3-mapping-trendy-new-coffeeplaces)
   * [4. Small poems created from cassettes](#4-small-poems-created-from-cassettes)
-- [3. Reflection](#reflection)
-- [4. Outcomes](#outcomes)
-    + [1. Outcome Links](#outcome-links)
-- [5. Conclusion](#conclusion)
+- [4. Reflection](#4-reflection)
+- [5. Outcomes](#5-outcomes)
+    + [1. Possible outcomes](#1-possible-outcomes)
+    + [2. References](#2-references)
+    + [Outcome Links](#outcome-links)
+- [6. Conclusion](#6-conclusion)
+- [7. Bibliography](#7-bibliography)
 
 # 1. Artefact
 Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1996 with a total length of 19 hrs 31 min. The concerened interviews are about the experience of squatting spanned over several years.
 
 [Research](#Research-h1)
 
-## Metadata
+## 1. Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG BG GC10/963-993](https://search.iisg.amsterdam/Record/1295445)
@@ -39,12 +44,12 @@ Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1
 
 
 # 2. Research
-## Amsterdam back then
+## 1. Amsterdam back then
 Squatting in Amsterdam refers to the occupation of unused or derelict buildings or land without the permission of the owner. The modern squatters movement (Dutch: kraakbeweging) began in the 1960s in the Netherlands and became a powerful housing movement in the 1980s.<sup>[[1]](#footnote-1)</sup> At its height the squatters movement regularly came into conflict with the state, particularly in Amsterdam.<sup>[[2]](#footnote-2)</sup>
 
 Renewal comes from fringes, the squatters movement gave a lot to Amsterdam as a city. The cultural freedom gave space for creative interpretation that created multiple chances for the city.
 
-## Amsterdam today
+## 2. Amsterdam today
 Amsterdam is an uplifting city with a good economy partly based on tourism income. After de economy crisis and then buildup, it's stable and uprising.<sup>[[3]](#footnote-3)</sup> Houses are hardly affordable right now and the structure of the city is changed.<sup>[[4]](#footnote-4)</sup>
 
 <p float="left">
@@ -55,17 +60,17 @@ Amsterdam is an uplifting city with a good economy partly based on tourism incom
 </p>
 
 
-## Content of cassettes
+## 3. Content of cassettes
 The cassestted contain interviews, that are structured with question > awnser and all the side roads that are created from there. The content is based on the experience of the interviewee/ex-squatter but mostly about the whole squatting experience, from the moment they first acquainted with the sqautters movement until they left. 
 
-### Common questions asked during the interviews
+### 4. Common questions asked during the interviews
 - Why the squattersmovement?
 - What attracted you?
 - When and how did you become aware?
 - What was your political motive?
 - How did get into the squatters movement?
 
-## Concept
+## 5. Concept
 Tangible/interactive installation that conveys the feeling of the content of the tapes reflected on Amsterdam in 2020. What is the contemporary interpretation of the tapes? What did the squatters look like? How did it smell on the street? What elements in the city are left from that time?
 Visualizing a map of the city with different elements transcoded from the 28 audio tapes.
 
@@ -79,7 +84,7 @@ De stad was van ons<br>
 De stad weer van ons<br>
 Van wie is de stad?*
 
-## Research question
+## 6. Research question
 What happend to Amsterdam in the time from the squatters movement around 1980 and right now in 2020?  What are the area's around the squattersplaces (mentioned in the tapes) like right now? What aspects do we, nowadays, experience from what is left from the squatters movement? And how do we, right now, experience the city?
 
 
@@ -204,7 +209,7 @@ Together with my current view on the housing situation in Amsterdam, the things 
 
 
 # 5. Outcomes
-### Possible outcomes
+### 1. Possible outcomes
 Using different types of mapping together in 1 system, to combine the experience from the ex-squatters with the experience now. All of the transcodings can come together as an screen-based experience.
 - Mapping website
 - Walking route on google maps
@@ -217,7 +222,7 @@ Using different types of mapping together in 1 system, to combine the experience
 
 [API's voor geolocatie | Google Maps Platform | Google Cloud](https://cloud.google.com/maps-platform/?hl=nl&utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_417765871570-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C+Mapping+APIs-KWID_43700051585816041-kwd-412104684431-userloc_9063510&utm_term=KW_%2Bmap%20%2Bapis-ST_%2Bmap+%2Bapis&gclid=EAIaIQobChMI6pa9xYn36AIVj6Z3Ch30KwnQEAAYASAAEgL4evD_BwE)
 
-### References
+### 2. References
 [Create your Mobile Audio Tour Guide App](https://www.actiondatasystems.com/)
 
 [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/)
@@ -231,7 +236,7 @@ Links outcome
 # 6. Conclusion 
 
 
-## Bibliography
+# 7. Bibliography
 <a name="footnote-1">**[1]**</a>: https://nl.wikipedia.org/wiki/Rellen_en_opstanden_in_Amsterdam#Krakersrellen
 
 <a name="footnote-2">**[2]**</a>: http://www.iisg.nl/staatsarchief/publicaties/voettussendedeur/hoofdstuk03.php
