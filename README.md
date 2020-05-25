@@ -2,30 +2,30 @@
 # De stad was van ons
 
 ### Table of Contents
-  * [1. Artefact](#1-artefact)
-    + [1. Metadata](#1-metadata)
-  * [2. Research](#2-research)
-    + [1. Amsterdam back then](#1-amsterdam-back-then)
-    + [2. Amsterdam today](#2-amsterdam-today)
-    + [3. Content of cassettes](#3-content-of-cassettes)
-    + [5. Concept](#5-concept)
-    + [6. Research question](#6-research-question)
-  * [3. Transcoding](#3-transcoding)
+1. [Artefact](#artefact)
+    + [Metadata](#metadata)
+2. [Research](#research)
+    + [Amsterdam back then](#amsterdam-back-then)
+    + [Amsterdam today](#amsterdam-today)
+    + [Content of cassettes](#content-of-cassettes)
+    + [Concept](concept)
+    + [Research question](#6-research-question)
+3. [Transcoding](#transcoding)
     + [1. Audio snippets from cassettes content](#1-audio-snippets-from-cassettes-content)
     + [2. Mapping squatters buildings then vs now](#2-mapping-squatters-buildings-then-vs-now)
     + [3. Mapping trendy new coffeeplaces](#3-mapping-trendy-new-coffeeplaces)
     + [4. Small poems created from cassettes](#4-small-poems-created-from-cassettes)
-  * [4. Reflection](#4-reflection)
-  * [5. Outcomes](#5-outcomes)
-  * [6. Conclusion](#6-conclusion)
-  * [7. Bibliography](#7-bibliography)
+4. [Reflection](#reflection)
+5. [Outcomes](#outcomes)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography)
 
-## 1. Artefact
+## Artefact
 Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1996 with a total length of 19 hrs 31 min. The concerened interviews are about the experience of squatting spanned over several years.
 
 [Research](#Research-h1)
 
-### 1. Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG BG GC10/963-993](https://search.iisg.amsterdam/Record/1295445)
@@ -38,13 +38,13 @@ Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1
 
 
 
-## 2. Research
-### 1. Amsterdam back then
+## Research
+### Amsterdam back then
 Squatting in Amsterdam refers to the occupation of unused or derelict buildings or land without the permission of the owner. The modern squatters movement (Dutch: kraakbeweging) began in the 1960s in the Netherlands and became a powerful housing movement in the 1980s.<sup>[[1]](#footnote-1)</sup> At its height the squatters movement regularly came into conflict with the state, particularly in Amsterdam.<sup>[[2]](#footnote-2)</sup>
 
 Renewal comes from fringes, the squatters movement gave a lot to Amsterdam as a city. The cultural freedom gave space for creative interpretation that created multiple chances for the city.
 
-### 2. Amsterdam today
+### Amsterdam today
 Amsterdam is an uplifting city with a good economy partly based on tourism income. After de economy crisis and then buildup, it's stable and uprising.<sup>[[3]](#footnote-3)</sup> Houses are hardly affordable right now and the structure of the city is changed.<sup>[[4]](#footnote-4)</sup>
 
 <p float="left">
@@ -55,17 +55,17 @@ Amsterdam is an uplifting city with a good economy partly based on tourism incom
 </p>
 
 
-### 3. Content of cassettes
+### Content of cassettes
 The cassestted contain interviews, that are structured with question > awnser and all the side roads that are created from there. The content is based on the experience of the interviewee/ex-squatter but mostly about the whole squatting experience, from the moment they first acquainted with the sqautters movement until they left. 
 
-#### 4. Common questions asked during the interviews
+#### Common questions asked during the interviews
 - Why the squattersmovement?
 - What attracted you?
 - When and how did you become aware?
 - What was your political motive?
 - How did get into the squatters movement?
 
-### 5. Concept
+### Concept
 Tangible/interactive installation that conveys the feeling of the content of the tapes reflected on Amsterdam in 2020. What is the contemporary interpretation of the tapes? What did the squatters look like? How did it smell on the street? What elements in the city are left from that time?
 Visualizing a map of the city with different elements transcoded from the 28 audio tapes.
 
@@ -79,12 +79,12 @@ De stad was van ons<br>
 De stad weer van ons<br>
 Van wie is de stad?*
 
-### 6. Research question
+### Research question
 What happend to Amsterdam in the time from the squatters movement around 1980 and right now in 2020?  What are the area's around the squattersplaces (mentioned in the tapes) like right now? What aspects do we, nowadays, experience from what is left from the squatters movement? And how do we, right now, experience the city?
 
 
 
-## 3. Transcoding
+## Transcoding
 With the total length of the cassettes there is a lot of material to transcode. I'll dive deeper into organizing the audio in smaller snippets that refer to different parts of the content of the cassettes. Next to that I mapped the content of the tapes and translated that into present sence, with details from back then collected from the tapes and translated into the Amsterdam as I know it today. 
 
 <p float="left">
@@ -94,7 +94,7 @@ With the total length of the cassettes there is a lot of material to transcode. 
 
 
 
-### 1. Audio snippets from cassettes content
+### Audio snippets from cassettes content
 I went through the cassettes to reconize a rythm and structure in the interviews. There are certain questions asked and different return topics come across. In the audio there is also a lot of noise and other unplaceble sounds. I made audio snippets from different sounds/perspectives. 
 
 #### Aims
@@ -124,7 +124,7 @@ All the audio of the cassettes is on [here]([http://www.iisg.nl/staatsarchief/au
 [Tate - Audio Arts](https://www.tate.org.uk/about-us/projects/audio-arts)
 
 
-### 2. Mapping squatters buildings then vs now
+### Mapping squatters buildings then vs now
 In the audio files of the cassettes the interviewee/ex-squatters talk about where the were living in Amsterdam when the entered the squatters movement. I collected the addresses of those squatters buildings and looked them up. Where are they now? are they still here?
 
 #### Aims
@@ -150,7 +150,7 @@ Getting the exact location fromt the audio files and then using google maps to l
 
 
 
-### 3. Mapping trendy new coffeeplaces 
+### Mapping trendy new coffeeplaces 
 After the economic crisis that had taken place before the squatters 'movement and after the clearing of the squatters' houses, economic growth eventually emerged and gentrification took place. People from outside the cities moved to Amsterdam and a new people slowly took over: 'yuppen'. Hip coffeebars appeared one by one and then in bushes. How many are there actually in Amsterdam? and where are they?
 
 #### Aims
@@ -175,7 +175,7 @@ By searching on blogs and biking through Amsterdam I made a collection of trendy
 
 
 
-### 4. Small poems created from cassettes 
+### Small poems created from cassettes 
 While listening to the interviews I feel a lot of emotion, about the whole proces of the sqautters and what they have been through. A strong feeling of power and wanting things to change.  Discribed in words nearly becomes poetry.
 
 #### Aims
@@ -200,11 +200,11 @@ Together with my current view on the housing situation in Amsterdam, the things 
 
 
  
-## 4. Reflection
+## Reflection
 
 
-## 5. Outcomes
-#### 1. Possible outcomes
+## Outcomes
+#### Possible outcomes
 Using different types of mapping together in 1 system, to combine the experience from the ex-squatters with the experience now. All of the transcodings can come together as an screen-based experience.
 - Mapping website
 - Walking route on google maps
@@ -217,7 +217,7 @@ Using different types of mapping together in 1 system, to combine the experience
 
 [API's voor geolocatie | Google Maps Platform | Google Cloud](https://cloud.google.com/maps-platform/?hl=nl&utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_417765871570-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C+Mapping+APIs-KWID_43700051585816041-kwd-412104684431-userloc_9063510&utm_term=KW_%2Bmap%20%2Bapis-ST_%2Bmap+%2Bapis&gclid=EAIaIQobChMI6pa9xYn36AIVj6Z3Ch30KwnQEAAYASAAEgL4evD_BwE)
 
-#### 2. References
+#### References
 [Create your Mobile Audio Tour Guide App](https://www.actiondatasystems.com/)
 
 [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/)
@@ -228,10 +228,10 @@ Using different types of mapping together in 1 system, to combine the experience
 Links outcome
 
 
-## 6. Conclusion 
+## Conclusion 
 
 
-## 7. Bibliography
+## Bibliography
 <a name="footnote-1">**[1]**</a>: https://nl.wikipedia.org/wiki/Rellen_en_opstanden_in_Amsterdam#Krakersrellen
 
 <a name="footnote-2">**[2]**</a>: http://www.iisg.nl/staatsarchief/publicaties/voettussendedeur/hoofdstuk03.php
