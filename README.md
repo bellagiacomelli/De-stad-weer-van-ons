@@ -2,8 +2,8 @@
 # De stad was van ons
 
 ### Table of Contents
-  * [1. Artefact](#1-artefact)
-    + [1. Metadata](#1-metadata)
+  [1. Artefact](#1-artefact)
+    [1. Metadata](#1-metadata)
   * [2. Research](#2-research)
     + [1. Amsterdam back then](#1-amsterdam-back-then)
     + [2. Amsterdam today](#2-amsterdam-today)
