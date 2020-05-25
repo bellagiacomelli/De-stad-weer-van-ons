@@ -2,23 +2,23 @@
 # De stad was van ons
 
 ### Table of Contents
-- [Artefact](#artefact)
-  * [Metadata](#metadata)
-- [Research](#research)
-  * [Brief history about the squatters movement in Amsterdam](#brief-history-about-the-squatters-movement-in-amsterdam)
-  * [Neigbourhoods in Amsterdam today](#neigbourhoods-in-amsterdam-today)
-  * [Content of cassettes](#content-of-cassettes)
-  * [Concept](#concept)
-  * [Research question](#research-question)
-- [Transcoding](#transcoding)
+- [1. Artefact](#artefact)
+  * [1. Metadata](#metadata)
+- [2. Research](#research)
+  * [1. Brief history about the squatters movement in Amsterdam](#brief-history-about-the-squatters-movement-in-amsterdam)
+  * [2. Neigbourhoods in Amsterdam today](#neigbourhoods-in-amsterdam-today)
+  * [3. Content of cassettes](#content-of-cassettes)
+  * [4. Concept](#concept)
+  * [5. Research question](#research-question)
+- [2. Transcoding](#transcoding)
   * [1. Audio snippets from cassettes content](#1-audio-snippets-from-cassettes-content)
   * [2. Mapping squatters buildings then vs now](#2-mapping-squatters-buildings-then-vs-now)
   * [3. Mapping trendy new coffeeplaces](#3-mapping-trendy-new-coffeeplaces)
   * [4. Small poems created from cassettes](#4-small-poems-created-from-cassettes)
-- [Reflection](#reflection)
-- [Outcomes](#outcomes)
-    + [Outcome Links](#outcome-links)
-- [Conclusion](#conclusion)
+- [3. Reflection](#reflection)
+- [4. Outcomes](#outcomes)
+    + [1. Outcome Links](#outcome-links)
+- [5. Conclusion](#conclusion)
 
 # 1. Artefact
 Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1996 with a total length of 19 hrs 31 min. The concerened interviews are about the experience of squatting spanned over several years.
@@ -48,7 +48,7 @@ Renewal comes from fringes, the squatters movement gave a lot to Amsterdam as a 
 Amsterdam is an uplifting city with a good economy partly based on tourism income. After de economy crisis and then buildup, it's stable and uprising.<sup>[[3]](#footnote-3)</sup> Houses are hardly affordable right now and the structure of the city is changed.<sup>[[4]](#footnote-4)</sup>
 
 <p float="left">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/yuppen-tripadvisor.gif" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/yuppen.gif" width="40%">
 <img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/kaart-prijzen.jpg" width="40%">
 <img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/koopwoningen.gif" width="40%">
 <img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/wijktypen.gif" width="40%">
