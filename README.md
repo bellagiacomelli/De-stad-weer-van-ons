@@ -2,23 +2,23 @@
 # De stad was van ons
 
 ### Table of Contents
-  [1. Artefact](#1-artefact)
+  * [1. Artefact](#1-artefact)
     + [1. Metadata](#1-metadata)
- [2. Research](#2-research)
+  * [2. Research](#2-research)
     + [1. Amsterdam back then](#1-amsterdam-back-then)
     + [2. Amsterdam today](#2-amsterdam-today)
     + [3. Content of cassettes](#3-content-of-cassettes)
     + [5. Concept](#5-concept)
     + [6. Research question](#6-research-question)
-[3. Transcoding](#3-transcoding)
+  * [3. Transcoding](#3-transcoding)
     + [1. Audio snippets from cassettes content](#1-audio-snippets-from-cassettes-content)
     + [2. Mapping squatters buildings then vs now](#2-mapping-squatters-buildings-then-vs-now)
     + [3. Mapping trendy new coffeeplaces](#3-mapping-trendy-new-coffeeplaces)
     + [4. Small poems created from cassettes](#4-small-poems-created-from-cassettes)
-[4. Reflection](#4-reflection)
-[5. Outcomes](#5-outcomes)
-[6. Conclusion](#6-conclusion)
-[7. Bibliography](#7-bibliography)
+  * [4. Reflection](#4-reflection)
+  * [5. Outcomes](#5-outcomes)
+  * [6. Conclusion](#6-conclusion)
+  * [7. Bibliography](#7-bibliography)
 
 ## 1. Artefact
 Cassettes containing interviews with 28 ex-squatters in Amsterdam, recorded in 1996 with a total length of 19 hrs 31 min. The concerened interviews are about the experience of squatting spanned over several years.
