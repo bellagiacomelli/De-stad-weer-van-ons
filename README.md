@@ -1,5 +1,5 @@
 [<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/cover_img.gif" width="100%">](#)
-# De stad was van ons
+# De Stad was van Ons
 
 ### Table of Contents
 1. [Artefact](#artefact)
