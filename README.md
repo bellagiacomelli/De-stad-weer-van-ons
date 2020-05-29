@@ -48,10 +48,7 @@ Renewal comes from fringes, the squatters movement gave a lot to Amsterdam as a 
 Amsterdam is an uplifting city with a good economy partly based on tourism income. After de economy crisis and then buildup, it's stable and uprising.<sup>[[3]](#footnote-3)</sup> Houses are hardly affordable right now and the structure of the city is changed.<sup>[[4]](#footnote-4)</sup>
 
 <p float="left">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/yuppen.gif" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/kaart-prijzen.jpg" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/koopwoningen.gif" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/wijktypen.gif" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/kaarten.jpg" width="80%">
 </p>
 
 
