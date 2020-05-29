@@ -225,17 +225,17 @@ Using different types of mapping together in 1 system, to combine the experience
 
 #### Outcome Links
 <p float="left">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome1.gif" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome2.gif" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome3.gif" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome4.gif" width="90%">
 </p>
 
 <p float="left">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome5.PNG" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome6.PNG" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome7.PNG" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/outcome8.PNG" width="90%">
 </p>
 
 [Tour on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221c5qdG6iCAPMCld8fACgeeBU-aYJKLXgF%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
