@@ -156,9 +156,23 @@ By mapping a typical example of gentrification in Amsterdam it will give a contr
 By searching on blogs and biking through Amsterdam I made a collection of trendy coffeebars that I pinned in google maps. On google streetview I made screenshots of the facades of the places and collected tripadvisor reviews about 'yuppen'.
 
 #### Results
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.gif" width="70%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/yuppen-tripadvisor.gif" width="70%">
+<p float="left">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%"> 
+</p>
+
+<p float="left">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%"> 
+</p>
+
+[Tour on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221c5qdG6iCAPMCld8fACgeeBU-aYJKLXgF%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
+[Tour on Google Maps](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%221kmLqiCElH4-xqSsdvIc_DsLFrxVejQ6S%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
+[Van wie is de stad?](https://bellagiacomelli.github.io/Van-wie-is-de-stad-website/GoogleMapSlider/)
 
 
 
@@ -203,7 +217,6 @@ Because of the amount of different elements in the tapes and all located in Amst
 “Experience Amsterdam as 1980 in 2020” was my goal. Therefore I created a guided audiotour that is accessible through google earth & maps on a phone and browser. I’m happy with the result, as it became an experience after all that is doable for people in real life. 
 
 
-
 ## Outcomes
 #### Possible outcomes
 Using different types of mapping together in 1 system, to combine the experience from the ex-squatters with the experience now. All of the transcodings can come together as an screen-based experience.
@@ -211,6 +224,11 @@ Using different types of mapping together in 1 system, to combine the experience
 - Walking route on google maps
 - Audio tour (with pieces of tapes)
 - Written poems
+
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
+
 
 
 #### References
