@@ -214,12 +214,19 @@ Using different types of mapping together in 1 system, to combine the experience
 
 #### References
 [Critical Atlas of Internet](http://internet-atlas.net/)
+
 [Different Recordings](http://differentrecordings.com/)
+
 [Radio Garden](http://radio.garden/)
+
 [JAN ROTHUIZEN](https://janrothuizen.nl/)
+
 [Below the Surface - Archeologische vondsten Noord/Zuidlijn Amsterdam](https://belowthesurface.amsterdam/nl/vondsten)
+
 [Subjective Atlas](http://subjectiveatlas.info/)
+
 [Censorship Daily - Jan Dirk van der Burg](http://www.jandirk.com/censorship.html)
+
 [Kraakbeweging ontwaakt in tijden van woningnood - MUG Magazine](https://www.mugmagazine.nl/kraakbeweging-ontwaakt/)
 
 
@@ -239,7 +246,9 @@ Using different types of mapping together in 1 system, to combine the experience
 </p>
 
 [Tour on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221c5qdG6iCAPMCld8fACgeeBU-aYJKLXgF%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
+
 [Tour on Google Maps](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%221kmLqiCElH4-xqSsdvIc_DsLFrxVejQ6S%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
+
 [Van wie is de stad?](https://bellagiacomelli.github.io/Van-wie-is-de-stad-website/GoogleMapSlider/)
 
 
