@@ -63,8 +63,7 @@ The cassestted contain interviews, that are structured with question > awnser an
 - How did get into the squatters movement?
 
 ### Concept
-Tangible/interactive installation that conveys the feeling of the content of the tapes reflected on Amsterdam in 2020. What is the contemporary interpretation of the tapes? What did the squatters look like? How did it smell on the street? What elements in the city are left from that time?
-Visualizing a map of the city with different elements transcoded from the 28 audio tapes.
+Mapping/tour that conveys the feeling of the content of the tapes reflected on Amsterdam in 2020. What is the contemporary interpretation of the tapes? What did the squatters look like? How did it smell on the street? What elements in the city are left from that time? Visualizing a map of the city with different elements transcoded from the 28 audio tapes.
 
 <p float="left">
 <img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
@@ -195,9 +194,14 @@ Together with my current view on the housing situation in Amsterdam, the things 
 [Digital art meets poetry](https://www.dazeddigital.com/artsandculture/article/19735/1/digital-art-meets-poetry-in-this-google-maps-mash-up)
 
 
-
  
 ## Reflection
+After looking into the history of coffeeshops I bumped into the squatters movement and immediately felt a strong connection. Then I found the 28 interviews on audiotapes and started listening to them, I got sucked into the conversations like I was one of the people sitting in the record room. Also the fact that they were recorded on cassettes gave me the nostalgic feeling from my ‘early’ listening to music days. 
+
+Because of the amount of different elements in the tapes and all located in Amsterdam, the idea of mapping popped up quite quick and I started investigating in different ways of ordering information and then putting them together into a whole. It was sometimes a struggle to figure out how to put an interactive map on a webpage and how to communicate the outcome through another screen.
+
+“Experience Amsterdam as 1980 in 2020” was my goal. Therefore I created a guided audiotour that is accessible through google earth & maps on a phone and browser. I’m happy with the result, as it became an experience after all that is doable for people in real life. 
+
 
 
 ## Outcomes
@@ -207,12 +211,7 @@ Using different types of mapping together in 1 system, to combine the experience
 - Walking route on google maps
 - Audio tour (with pieces of tapes)
 - Written poems
-- Augmented reality objects
 
-
-[Urban Data](https://www.ams-institute.org/urban-data/)
-
-[API's voor geolocatie | Google Maps Platform | Google Cloud](https://cloud.google.com/maps-platform/?hl=nl&utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_417765871570-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C+Mapping+APIs-KWID_43700051585816041-kwd-412104684431-userloc_9063510&utm_term=KW_%2Bmap%20%2Bapis-ST_%2Bmap+%2Bapis&gclid=EAIaIQobChMI6pa9xYn36AIVj6Z3Ch30KwnQEAAYASAAEgL4evD_BwE)
 
 #### References
 [Create your Mobile Audio Tour Guide App](https://www.actiondatasystems.com/)
@@ -220,6 +219,10 @@ Using different types of mapping together in 1 system, to combine the experience
 [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/)
 
 [Create Your Own Audio Tour " VoiceMap](https://voicemap.me/create-audio-tours)
+
+[Urban Data](https://www.ams-institute.org/urban-data/)
+
+[API's voor geolocatie | Google Maps Platform | Google Cloud](https://cloud.google.com/maps-platform/?hl=nl&utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_417765871570-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C+Mapping+APIs-KWID_43700051585816041-kwd-412104684431-userloc_9063510&utm_term=KW_%2Bmap%20%2Bapis-ST_%2Bmap+%2Bapis&gclid=EAIaIQobChMI6pa9xYn36AIVj6Z3Ch30KwnQEAAYASAAEgL4evD_BwE)
 
 #### Outcome Links
 Links outcome
