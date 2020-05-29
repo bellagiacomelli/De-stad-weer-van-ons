@@ -156,23 +156,9 @@ By mapping a typical example of gentrification in Amsterdam it will give a contr
 By searching on blogs and biking through Amsterdam I made a collection of trendy coffeebars that I pinned in google maps. On google streetview I made screenshots of the facades of the places and collected tripadvisor reviews about 'yuppen'.
 
 #### Results
-<p float="left">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%"> 
-</p>
-
-<p float="left">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram1.png" width="40%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/diagram2.png" width="40%"> 
-</p>
-
-[Tour on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221c5qdG6iCAPMCld8fACgeeBU-aYJKLXgF%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
-[Tour on Google Maps](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%221kmLqiCElH4-xqSsdvIc_DsLFrxVejQ6S%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
-[Van wie is de stad?](https://bellagiacomelli.github.io/Van-wie-is-de-stad-website/GoogleMapSlider/)
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.gif" width="70%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/yuppen-tripadvisor.gif" width="70%">
 
 
 
@@ -225,25 +211,38 @@ Using different types of mapping together in 1 system, to combine the experience
 - Audio tour (with pieces of tapes)
 - Written poems
 
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
-<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/coffeebars.png" width="70%">
-
-
 
 #### References
-[Create your Mobile Audio Tour Guide App](https://www.actiondatasystems.com/)
+[Critical Atlas of Internet](http://internet-atlas.net/)
+[Different Recordings](http://differentrecordings.com/)
+[Radio Garden](http://radio.garden/)
+[JAN ROTHUIZEN](https://janrothuizen.nl/)
+[Below the Surface - Archeologische vondsten Noord/Zuidlijn Amsterdam](https://belowthesurface.amsterdam/nl/vondsten)
+[Subjective Atlas](http://subjectiveatlas.info/)
+[Censorship Daily - Jan Dirk van der Burg](http://www.jandirk.com/censorship.html)
+[Kraakbeweging ontwaakt in tijden van woningnood - MUG Magazine](https://www.mugmagazine.nl/kraakbeweging-ontwaakt/)
 
-[Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/)
-
-[Create Your Own Audio Tour " VoiceMap](https://voicemap.me/create-audio-tours)
-
-[Urban Data](https://www.ams-institute.org/urban-data/)
-
-[API's voor geolocatie | Google Maps Platform | Google Cloud](https://cloud.google.com/maps-platform/?hl=nl&utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_417765871570-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C+Mapping+APIs-KWID_43700051585816041-kwd-412104684431-userloc_9063510&utm_term=KW_%2Bmap%20%2Bapis-ST_%2Bmap+%2Bapis&gclid=EAIaIQobChMI6pa9xYn36AIVj6Z3Ch30KwnQEAAYASAAEgL4evD_BwE)
 
 #### Outcome Links
-Links outcome
+<p float="left">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+</p>
+
+<p float="left">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+<img src="https://github.com/bellagiacomelli/De-stad-weer-van-ons/blob/master/Documentation/img/Poem-all.jpg" width="90%">
+</p>
+
+[Tour on Google Earth](https://earth.google.com/earth/rpc/cc/drive?state=%7B%22ids%22%3A%5B%221c5qdG6iCAPMCld8fACgeeBU-aYJKLXgF%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
+[Tour on Google Maps](https://www.google.com/maps/d/drive?state=%7B%22ids%22%3A%5B%221kmLqiCElH4-xqSsdvIc_DsLFrxVejQ6S%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22115075628040036925173%22%7D&usp=sharing)
+[Van wie is de stad?](https://bellagiacomelli.github.io/Van-wie-is-de-stad-website/GoogleMapSlider/)
+
+
 
 
 ## Conclusion 
